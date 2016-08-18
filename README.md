@@ -8,3 +8,6 @@ Unity で Ricoh Theta の画像をそのまま環境マップとして使うた�
 #使い方
 メニューの Custom/GenerateEquirectangularSphere で Generatedフォルダに環境マップ用スフィアメッシュが出来るので、
 それに Ricoh Theta の画像を貼る。
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/Unity_Uploader)
+
